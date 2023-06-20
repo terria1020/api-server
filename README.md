@@ -14,6 +14,14 @@
 
 캡스톤디자인 일정 중 개발 가능한 기간: 2023.04.03 ~ 2023.06.02
 
+### 프로젝트 아키텍처 · 구조도
+
+<img width="740" alt="스크린샷 2023-06-02 오후 12 17 47" src="https://github.com/terria1020/api-server/assets/38485612/5d8eceae-0343-4964-8b01-3d21c5429f95">
+<img width="736" alt="스크린샷 2023-06-02 오후 12 17 54" src="https://github.com/terria1020/api-server/assets/38485612/875636b7-7d41-4be5-b3fb-8e475d874d80">
+<img width="738" alt="스크린샷 2023-06-02 오후 12 18 02" src="https://github.com/terria1020/api-server/assets/38485612/e4a12a16-1a61-4ab5-95e8-dd6921aa7a90">
+<img width="685" alt="스크린샷 2023-06-02 오후 12 19 41" src="https://github.com/terria1020/api-server/assets/38485612/7f524945-d6f0-4d01-9ce0-d31f5e1b46b6">
+
+
 ### 기술 스택
 
 ---
@@ -56,6 +64,8 @@ Spring Boot 기본 프로젝트 세팅
 
 ### 본 개발
 
+---
+
 엔드포인트/세부 기능 별 개발 우선순위 부여
 
 개발 범위를 좁히고, 이슈 생성 후 이슈 별 개발
@@ -65,8 +75,8 @@ Git-Flow 전략을 사용한 머지 정책
 Pull Request를 사용한 코드 리뷰, 피드백 및 머지
 
 상세 설계 이후의 개발 내용 정리는 다음을 참조: 
-[SOPAR_최종결과보고서_백엔드파트.pdf](https://github.com/terria1020/api-server/files/11797378/SOPAR_._.pdf)
 
+[SOPAR_최종결과보고서_백엔드파트.pdf](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/94e868c9-570d-4aef-b3f6-180202e51796/SOPAR_%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%80%E1%85%A7%E1%86%AF%E1%84%80%E1%85%AA%E1%84%87%E1%85%A9%E1%84%80%E1%85%A9%E1%84%89%E1%85%A5_%E1%84%87%E1%85%A2%E1%86%A8%E1%84%8B%E1%85%A6%E1%86%AB%E1%84%83%E1%85%B3%E1%84%91%E1%85%A1%E1%84%90%E1%85%B3.pdf)
 
 ### 개인별 프로젝트 개발 내용
 
